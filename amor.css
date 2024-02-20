@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec; /* Rosa claro */
+    color: #333; /* Cor de texto padrão */
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #ff4081; /* Rosa */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+.content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer {
+    background-color: #ff4081; /* Rosa */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
